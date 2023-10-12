@@ -1,2 +1,2 @@
 # zxcvPodcastRSS
-A Podcast RSS Feed Generator
+A Podcast RSS Feed Generator for the modern developer. With this package you can easily create iTunes valid RSS feeds for your Podcast needs. Please share any extentions or features you would like added. Do keep a lookout for the upcoming Nuget package for application!
